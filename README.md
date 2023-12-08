@@ -1,66 +1,27 @@
-<!-- TITLE -->
-# Configuracao de Ambiente no Mac
+<!-- Título -->
+# Introdução a Linha de Comandos
 
-<!-- * ***Conteúdo:*** -->
+***Conteúdo do Módulo:***
 
-<!-- TABLE OF CONTENTS -->
-<!-- ## TABELA DE CONTEÚDO -->
+* [ ] [A importância de Linha de Comandos.](https://github.com/Devsgeeknerd/cla-a-imp-lin-com-int-lin-com-win-fun-par-des-bas) &#128679;
+* [ ] [O Que é Terminal, Shell e Console.](https://github.com/Devsgeeknerd/cla-o-que-ter-she-con-int-lin-com-win-fun-par-des-bas) &#128679;
+* [ ] [Prompt de Comandos e PowerShell.](https://github.com/Devsgeeknerd/cla-pro-com-pow-int-lin-com-win-fun-par-des-bas) &#128679;
+* [ ] [Cmder e Hyper.](https://github.com/Devsgeeknerd/cla-cmd-hyp-int-lin-com-win-fun-par-des-bas) &#128679;
+* [ ] [Funcionamento Básico de um Terminal.](https://github.com/Devsgeeknerd/cla-fun-bas-ter-int-lin-com-win-fun-par-des-bas) &#128679;
 
-<!-- * [Vista por cima](#vista-por-cima) -->
-<!--  * [Foto da tela](#foto-da-tela) -->
-<!--  * [Links](#links) -->
-<!-- * [Meu processo](#meu-processo) -->
-<!--  * [Contruido com](#construido-com) -->
-<!--  * [O que aprendi](#o-que-aprendi) -->
-<!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
-<!--  * [Recusos úteis](#recursos-úteis) -->
-<!-- * [Autor](#autor) -->
-<!-- * [Agradecimentos](#agradecimentos) -->
-<!-- * [Informações](#informações) -->
+<!-- Informações -->
+## &#8505; Informações
 
-<!-- OVERVIEW -->
-<!-- ## VISTA POR CIMA -->
-
-<!-- SCREENSHOT -->
-<!-- ### FOTO DA TELA -->
-
-<!-- LINKS -->
-<!-- ### LINKS -->
-
-<!-- MY PROCESS -->
-<!-- ## MEU PROCESSO -->
-
-<!-- BUILT WITH -->
-<!-- ### CONSTRUIDO COM -->
-
-<!-- WHAT I LEARNED -->
-<!-- ### O QUE APRENDI -->
-
-<!-- CONTINUED DEVELOPMENT -->
-<!-- ### DESENVOLVIMENTO CONTÍNUO -->
-
-<!-- USEFUL RESOURCES -->
-<!-- ### RECURSOS ÚTEIS -->
-
-<!-- AUTHOR -->
-<!-- ## AUTOR -->
-
-<!-- ACKNOWLEDGMENTS -->
-<!-- ## AGRADECIMENTOS -->
-
-<!-- INFORMATION -->
-## INFORMAÇÕES
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcon-amb-mac&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fmod-int-lin-com-win-fun-par-des-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-<!-- ![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores") -->
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-<!-- ![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores") -->
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/mod-int-lin-com-win-fun-par-des-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-<!-- ![stars](https://img.shields.io/github/stars/Devsgeeknerd/?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas") -->
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/mod-int-lin-com-win-fun-par-des-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-<!-- ![forks](https://img.shields.io/github/forks/Devsgeeknerd/?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações") -->
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/mod-int-lin-com-win-fun-par-des-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-<!-- ![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório") -->
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/mod-int-lin-com-win-fun-par-des-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-<!-- ![license](https://img.shields.io/github/license/Devsgeeknerd/?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório") -->
+![License](https://img.shields.io/github/license/Devsgeeknerd/mod-int-lin-com-win-fun-par-des-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
